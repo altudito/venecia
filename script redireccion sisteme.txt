@@ -1,8 +1,0 @@
-<script>
-var pagina="link aqui"
-function redireccionar()
-{
-location.href=pagina
-}
-setTimeout ("redireccionar()", 0);
-</script>
